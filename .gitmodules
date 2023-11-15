@@ -1,3 +1,6 @@
 [submodule "vanguard-aleo"]
 	path = vanguard-aleo
 	url = https://github.com/Veridise/vanguard-aleo.git
+[submodule "aleo-stablecoin-workshop"]
+	path = aleo-stablecoin-workshop
+	url = https://github.com/trusttoken/aleo-stablecoin-workshop.git
