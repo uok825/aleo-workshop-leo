@@ -2,7 +2,7 @@ import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import aleoLogo from "./assets/aleo.svg";
 import "./App.css";
-import helloworld_program from "../helloworld/build/main.aleo?raw";
+import helloworld_program from "../helloworld_utkuworkshop3/build/main.aleo?raw";
 import { AleoWorker } from "./workers/AleoWorker.js";
 
 const aleoWorker = AleoWorker();
@@ -46,10 +46,10 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://aleo.org" target="_blank">
+        <a href="https://aleo.org" target="_blank" rel="noreferrer">
           <img src={aleoLogo} className="logo" alt="Aleo logo" />
         </a>
-        <a href="https://react.dev" target="_blank">
+        <a href="https://react.dev" target="_blank" rel="noreferrer">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
