@@ -1,0 +1,3 @@
+[submodule "vanguard-aleo"]
+	path = vanguard-aleo
+	url = https://github.com/Veridise/vanguard-aleo.git
