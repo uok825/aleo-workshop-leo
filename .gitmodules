@@ -4,3 +4,6 @@
 [submodule "aleo-stablecoin-workshop"]
 	path = aleo-stablecoin-workshop
 	url = https://github.com/trusttoken/aleo-stablecoin-workshop.git
+[submodule "Leo-App"]
+	path = Leo-App
+	url = https://github.com/oguzutku1745/Leo-App.git
